@@ -3,7 +3,6 @@ static_sites:
 - environment_slug: html
   github:
     branch: main
-    deploy_on_push: true
-    repo: digitalocean/sample-html
+    repo: nicktate/sample-html
   name: sample-html
   index_document: index.htm
